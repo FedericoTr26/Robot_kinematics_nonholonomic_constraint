@@ -2,12 +2,12 @@
 
 A Field and Service Robotics project on robot mobility, actuation, and velocity constraints. The analysis covers the ATLAS humanoid, spatial mechanisms, wheeled and aerial robots, and a Raibert hopper model.
 
-## My contribution
+## Approach
 
-- Compared the actuation of ATLAS in ground contact and in flight, and assessed actuation in wheeled robots, manipulators, and a coplanar hexarotor.
-- Counted degrees of freedom in spatial mechanisms with Grübler's formula and examined the effect of dependent constraints.
-- Computed annihilators and tested involutivity for three distributions. Showed that constant Pfaffian constraints are integrable.
-- Used symbolic MATLAB to compute admissible velocity directions for the Raibert hopper, evaluate their Lie bracket, and check the accessibility rank.
+- The analysis compares ATLAS actuation in ground contact and in flight, and assesses actuation in wheeled robots, manipulators, and a coplanar hexarotor.
+- Grübler's formula was used to count degrees of freedom in spatial mechanisms. The analysis also examined the effect of dependent constraints.
+- The analysis computes annihilators and tests involutivity for three distributions. It also establishes the integrability of constant Pfaffian constraints.
+- The symbolic MATLAB analysis computes admissible velocity directions for the Raibert hopper, evaluates their Lie bracket, and checks the accessibility rank.
 
 ## Results
 
